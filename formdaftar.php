@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Formulir Pendaftaran Siswa Baru | SMA Diakonia</title>
+    <title>Biodata Siswa| SMA Diakonia</title>
 </head>
 
 <body>
     <header>
-        <h3>Formulir Pendaftaran Siswa Baru</h3>
+        <h3>Biodata Siswa</h3>
     </header>
 
     <form action="proses-pendaftaran.php" method="POST">
