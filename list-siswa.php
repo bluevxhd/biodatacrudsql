@@ -3,16 +3,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Pendaftaran Siswa Baru</title>
+    <title>Isi Biodata Siswa</title>
 </head>
 
 <body>
     <header>
-        <h3>Siswa yang sudah mendaftar</h3>
+        <h3>Isi Biodata Siswa</h3>
     </header>
 
     <nav>
-        <a href="form-daftar.php">[+] Tambah Baru</a>
+        <a href="formdaftar.php">[+] Tambah Baru</a>
     </nav>
 
     <br>
